@@ -22,3 +22,6 @@ Bei diesem Schlüsselwort handelt es sich um ein einfaches Lerrzeichen. Mehrere 
 
 ## Beispiel:
 ![image](https://user-images.githubusercontent.com/63674539/183067179-240e0e6b-05dd-472b-94c1-f986e2452898.png)
+
+![image](https://user-images.githubusercontent.com/63674539/183152770-7823b6c5-302d-477d-b336-b0d46a1a632d.png)
+

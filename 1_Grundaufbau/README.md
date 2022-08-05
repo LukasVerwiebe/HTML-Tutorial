@@ -2,6 +2,9 @@
 
 Jedes HTML Dokument besteht aus einem Kopf (Head) und einem Rumpf (Body), der Title-Tag ist unbedingt notwendig. Die Doctype-Definition ist jetzt <!DOCTYPE html>, es sei denn man möchte explizit eine ältere Version von HTML verwenden.
 
+Jedes HTML-Dokument stellt mit der Verschachtelung seiner Formatanweisungen eine Baumstruktur dar.
+![image](https://user-images.githubusercontent.com/63674539/183057309-dcf1a10c-4261-437c-9af4-d174e86fe61e.png)
+
 ## 1. ![image](https://user-images.githubusercontent.com/63674539/183050846-e4116915-f74b-48dd-84d8-d81f06ed336b.png)
 Ein HTML Dokuemnt musss mit dem "!DOCTYPE" Tag beginnen, damit wird dem Browser mittgeteilt, dass es sich um eine HTML Datei handelt und um welche HTML Version.
 

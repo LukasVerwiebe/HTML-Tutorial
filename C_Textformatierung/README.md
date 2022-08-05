@@ -1,6 +1,6 @@
-# HTML-Textformatierung stehen in HTML verschiedene Tags zur Verfügung.
+# HTML-Textformatierung 
 
-Für die Formatierung 
+Für die Formatierung stehen in HTML verschiedene Tags zur Verfügung.
 
 ## 1. ![image](https://user-images.githubusercontent.com/63674539/183213157-529f9968-ba3b-47d9-8c0b-ff46c55bbdb2.png)
 Der Text zwischen diesem Tag wird in Fettschrift dargestellt.

@@ -13,3 +13,6 @@ Zum Anpassen des Ausehens eines Textes muss der Parameter 'style="color:red"' in
 
 ## Beispel:
 ![image](https://user-images.githubusercontent.com/63674539/183150646-91d37053-5551-44c3-bec3-a3ca4a7e4ae4.png)
+
+
+![image](https://user-images.githubusercontent.com/63674539/183152332-fb603df6-1cb9-4787-b44a-db45ec7296ab.png)

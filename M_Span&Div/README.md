@@ -1,6 +1,6 @@
 # HTML-Spin & Div Tag
 
-Innerhalb von längeren Texten kann es notwendig werden bestimmte Textbereiche als eigenen Textabschnitt herauszuheben oder duch das Markieren eines Abschnitts diesen besonders hervorzuheben. Dafür gibt es das "div" und das "span" Tag.
+Innerhalb von längeren Texten kann es notwendig werden bestimmte Textbereiche als eigenen Textabschnitt herauszuheben oder durch das Markieren eines Abschnitts diesen besonders hervorzuheben. Dafür gibt es das "div" und das "span" Tag.
 
 ## 1. ![image](https://user-images.githubusercontent.com/63674539/183150776-0bb4b194-9465-45d3-a07a-9c6a93ad5145.png)
 Längere Abschnitte werden durch das "div" Tag gekennzeichnet. Es ist aber auch möglich dieses in einen bereits bestehenden Text an einer bestimmten Stelle einzufügen, diese Stelle wird dann im Browser als eigener Abschnitt angezeigt.

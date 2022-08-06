@@ -8,6 +8,25 @@ Zielnamen sind für besondere Aktionen in Verbindung mit Dokumenten reserviert. 
 - _parent: Lädt das Dokument in dem Fenster, in dem sich der Link befunden hat, der zur Darstellung des eigenen Dokuments geführt hat.
 - _top: Lädt das Dokument in die oberste Fensterebene.
 
+Für graphisch anspruchsvolle Dokumente werden Pixelgrafiken benötigt. Hierfür steht das "img" Tag zur Verfügung. In der Praxis unterstützen Browser die Formate GIF, JPEG und PNG. Die Grafik wird an der Stelle platziert, an der das Element notiert wird -> keine neue Zeile. Das "src" Attribut ist obligatorisch und enthält die URL des zu ladenden Bildes. Mit "height" und "width" können Sie ein Bild entsprechend skalieren. Das "alt" Attribut enthält den sogenannten Fallback Text, falls die Grafik nicht geladen oder nicht angezeigt werden kann.
+
+## 1. ![image](https://user-images.githubusercontent.com/63674539/183225471-e416a624-bcfc-4599-869d-06642415d1b2.png)
+Über diesen Link wird die Google Startseite in einem neuen Fenster geöffnet.
+
+## 2. ![image](https://user-images.githubusercontent.com/63674539/183225558-98b6be7d-9551-4d1f-931d-c7d26615505a.png)
+Über diesen Link wird ein Download einer hinterlegten Datei gestartet, die Datei erhält den Namen "Test".
+
+## 3. ![image](https://user-images.githubusercontent.com/63674539/183225613-84742f0f-9f29-41c2-8235-1e1027d9112b.png)
+Bei betätigung dieses Links wird das Standard Email Programm auf dem PC geöffnet und als Betreff die angegebe Emailadresse eingetragen. Über das Attribut "title" wird ein Text angezeigt wenn den Mauszeiger über den Link setzt. 
+
+## 4. ![image](https://user-images.githubusercontent.com/63674539/183225749-0bcd0083-6a74-4224-aae3-f037d286da8c.png)
+
+
+## 5. ![image](https://user-images.githubusercontent.com/63674539/183225759-4b16af00-911e-4d3f-bd24-bd50579ab49d.png)
+
+
+## 6. ![image](https://user-images.githubusercontent.com/63674539/183225769-fa4537ea-141b-4938-9a9d-2a857dd0743e.png)
+
 
 ## Beispiel
 

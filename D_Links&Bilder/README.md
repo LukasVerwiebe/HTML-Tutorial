@@ -20,13 +20,13 @@ Für graphisch anspruchsvolle Dokumente werden Pixelgrafiken benötigt. Hierfür
 Bei betätigung dieses Links wird das Standard Email Programm auf dem PC geöffnet und als Betreff die angegebe Emailadresse eingetragen. Über das Attribut "title" wird ein Text angezeigt wenn den Mauszeiger über den Link setzt. 
 
 ## 4. ![image](https://user-images.githubusercontent.com/63674539/183225749-0bcd0083-6a74-4224-aae3-f037d286da8c.png)
-
+Mittels dieses "img" Tags wird ein Bild von einem Ordner aus aufgerufen.
 
 ## 5. ![image](https://user-images.githubusercontent.com/63674539/183225759-4b16af00-911e-4d3f-bd24-bd50579ab49d.png)
-
+Mit diesem "img" Tag wird ein Bild von einer anderen Webseite abgerufen.
 
 ## 6. ![image](https://user-images.githubusercontent.com/63674539/183225769-fa4537ea-141b-4938-9a9d-2a857dd0743e.png)
-
+Einem Hyperlink wurde ein "img" Tag hinzugefügt. Wenn auf das Bild geklickt wird, wird eine Webseite aufgerufen.
 
 ## Beispiel
 
